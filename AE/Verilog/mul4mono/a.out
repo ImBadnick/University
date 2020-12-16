@@ -1,0 +1,87 @@
+#! /usr/bin/vvp
+:ivl_version "10.1 (stable)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision + 0;
+:vpi_module "system";
+:vpi_module "vhdl_sys";
+:vpi_module "v2005_math";
+:vpi_module "va_math";
+S_0x55bf89038130 .scope module, "test" "test" 2 1;
+ .timescale 0 0;
+P_0x55bf89031b20 .param/l "N" 0 2 3, +C4<00000000000000000000000000001000>;
+v0x55bf8905a780_0 .var "clock", 0 0;
+v0x55bf8905a820_0 .var "x", 8 0;
+v0x55bf8905a8f0_0 .net "z", 8 0, L_0x55bf8906abd0;  1 drivers
+S_0x55bf89031380 .scope module, "m4" "mul4" 2 9, 3 1 0, S_0x55bf89038130;
+ .timescale 0 0;
+    .port_info 0 /OUTPUT 9 "z"
+    .port_info 1 /INPUT 9 "x"
+    .port_info 2 /INPUT 1 "clock"
+P_0x55bf89031550 .param/l "N" 0 3 3, +C4<00000000000000000000000000001000>;
+v0x55bf8905a280_0 .net "clock", 0 0, v0x55bf8905a780_0;  1 drivers
+v0x55bf8905a340_0 .var "in", 8 0;
+v0x55bf8905a430_0 .net "mul2int", 8 0, L_0x55bf8906aa20;  1 drivers
+v0x55bf8905a550_0 .net "x", 8 0, v0x55bf8905a820_0;  1 drivers
+v0x55bf8905a610_0 .net "z", 8 0, L_0x55bf8906abd0;  alias, 1 drivers
+E_0x55bf890340c0 .event posedge, v0x55bf8905a280_0;
+S_0x55bf88ffbb50 .scope module, "m1" "mul2" 3 8, 4 1 0, S_0x55bf89031380;
+ .timescale 0 0;
+    .port_info 0 /OUTPUT 9 "z"
+    .port_info 1 /INPUT 9 "x"
+P_0x55bf88ffbd20 .param/l "N" 0 4 2, +C4<00000000000000000000000000001000>;
+L_0x7fe10ad79018 .functor BUFT 1, C4<000000010>, C4<0>, C4<0>, C4<0>;
+v0x55bf890316b0_0 .net/2u *"_s0", 8 0, L_0x7fe10ad79018;  1 drivers
+v0x55bf89059a40_0 .net "x", 8 0, v0x55bf8905a340_0;  1 drivers
+v0x55bf89059b20_0 .net "z", 8 0, L_0x55bf8906aa20;  alias, 1 drivers
+L_0x55bf8906aa20 .delay 9 (2,2,2) L_0x55bf8906aa20/d;
+L_0x55bf8906aa20/d .arith/mult 9, v0x55bf8905a340_0, L_0x7fe10ad79018;
+S_0x55bf89059c70 .scope module, "m2" "mul2" 3 9, 4 1 0, S_0x55bf89031380;
+ .timescale 0 0;
+    .port_info 0 /OUTPUT 9 "z"
+    .port_info 1 /INPUT 9 "x"
+P_0x55bf89059e40 .param/l "N" 0 4 2, +C4<00000000000000000000000000001000>;
+L_0x7fe10ad79060 .functor BUFT 1, C4<000000010>, C4<0>, C4<0>, C4<0>;
+v0x55bf89059fa0_0 .net/2u *"_s0", 8 0, L_0x7fe10ad79060;  1 drivers
+v0x55bf8905a060_0 .net "x", 8 0, L_0x55bf8906aa20;  alias, 1 drivers
+v0x55bf8905a150_0 .net "z", 8 0, L_0x55bf8906abd0;  alias, 1 drivers
+L_0x55bf8906abd0 .delay 9 (2,2,2) L_0x55bf8906abd0/d;
+L_0x55bf8906abd0/d .arith/mult 9, L_0x55bf8906aa20, L_0x7fe10ad79060;
+    .scope S_0x55bf89031380;
+T_0 ;
+    %wait E_0x55bf890340c0;
+    %load/vec4 v0x55bf8905a550_0;
+    %assign/vec4 v0x55bf8905a340_0, 0;
+    %jmp T_0;
+    .thread T_0;
+    .scope S_0x55bf89038130;
+T_1 ;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v0x55bf8905a780_0, 0, 1;
+    %delay 2, 0;
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0x55bf8905a780_0, 0, 1;
+    %jmp T_1;
+    .thread T_1;
+    .scope S_0x55bf89038130;
+T_2 ;
+    %vpi_call 2 17 "$dumpfile", "test.vcd" {0 0 0};
+    %vpi_call 2 18 "$dumpvars" {0 0 0};
+    %pushi/vec4 2, 0, 9;
+    %store/vec4 v0x55bf8905a820_0, 0, 9;
+    %delay 4, 0;
+    %pushi/vec4 4, 0, 9;
+    %store/vec4 v0x55bf8905a820_0, 0, 9;
+    %delay 4, 0;
+    %pushi/vec4 8, 0, 9;
+    %store/vec4 v0x55bf8905a820_0, 0, 9;
+    %delay 4, 0;
+    %vpi_call 2 26 "$finish" {0 0 0};
+    %end;
+    .thread T_2;
+# The file index is used to find the file name in the following table.
+:file_names 5;
+    "N/A";
+    "<interactive>";
+    "test.v";
+    "mul4.sv";
+    "mul2.sv";
