@@ -1,6 +1,0 @@
-
-AUTOVALORI E MATRICE DIAGONALE DI UNA MATRICE: [V,D]=eig(A)
-
-RANGO DI UNA MATRICE: rank(A)
-
-Fattorizzazione LU e matrice di permutazione: [L,U,P] = lu(A)
