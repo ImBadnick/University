@@ -1,0 +1,12 @@
+
+NORMA DI UN VETTORE E MATRICE:
+
+norm(vettore/matrice,1) = norma 1 del vettore
+norm(vettore/matrice,2) = norma 2 del vettore
+norm(vettore/matrice,inf) = norma inf del vettore
+
+
+INVERSA DI UNA MATRICE: matrice^(-1)
+
+TRASPOSTA DI UNA MATRICE: matrice'
+

@@ -1,0 +1,2230 @@
+[ {
+  "nome" : "Correntista - 0",
+  "movimenti" : [ {
+    "data" : "2019-04-29",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-08-24",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-07-28",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-05",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-07-15",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-04-26",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-05-06",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-07-16",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-04-01",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-05-18",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-06-11",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-10-23",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-05-09",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-12-22",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-04-14",
+    "causale" : "Accredito"
+  } ]
+}, {
+  "nome" : "Correntista - 1",
+  "movimenti" : [ {
+    "data" : "2019-07-16",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-05-23",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-03-26",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-05-21",
+    "causale" : "F24"
+  }, {
+    "data" : "2018-11-17",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-01-13",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-26",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-08-12",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-03-21",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-06-15",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-06-13",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-08-20",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-04-16",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-05-20",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-07-26",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 2",
+  "movimenti" : [ {
+    "data" : "2020-10-04",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-04-30",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-12-28",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2018-12-27",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-10-31",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-03-01",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-07-01",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-02-05",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-03-04",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-04-05",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-10-12",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-07-15",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-05-09",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2018-11-30",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-02-20",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-09-21",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-01-13",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-08-14",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-10-11",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 3",
+  "movimenti" : [ {
+    "data" : "2019-07-25",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-07-05",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-12-20",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-06-20",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-06-18",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-07-03",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-05-13",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-09-22",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-10-19",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-01-28",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2018-11-18",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 4",
+  "movimenti" : [ {
+    "data" : "2019-01-23",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-12-30",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-12-24",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-05-01",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-03-31",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-07",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 5",
+  "movimenti" : [ {
+    "data" : "2019-05-09",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-01-08",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-06-01",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-05-13",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-05-02",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-05-08",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-08-29",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2018-12-24",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-10-28",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-09-05",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-08-25",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 6",
+  "movimenti" : [ {
+    "data" : "2020-02-24",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-06-01",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-10-22",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-08-08",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-03-08",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-08-09",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-02-13",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2018-11-17",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-03-21",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 7",
+  "movimenti" : [ {
+    "data" : "2019-11-15",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2018-12-04",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-09-23",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-02-27",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2018-12-14",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2018-12-24",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2018-12-22",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-02-22",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-06-24",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-05-18",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-08-29",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-08-27",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-06-05",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-06-30",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-02-08",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-06-14",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 8",
+  "movimenti" : [ {
+    "data" : "2019-07-21",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-10-31",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-09-30",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-09-25",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-08-11",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-06-16",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-01-21",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-03-04",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-06-26",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-09-16",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-03-01",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-01-11",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-07-03",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-08-18",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 9",
+  "movimenti" : [ {
+    "data" : "2020-09-19",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-01-01",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-03-21",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-02-26",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 10",
+  "movimenti" : [ {
+    "data" : "2019-11-01",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-08-08",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-02-13",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-01-06",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-08-31",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-03-13",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-06-29",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-08-16",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-08-12",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-07-16",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-08-19",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-07-22",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-07-16",
+    "causale" : "F24"
+  }, {
+    "data" : "2018-11-04",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-01-20",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2018-11-07",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2018-11-13",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-07-24",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 11",
+  "movimenti" : [ {
+    "data" : "2019-09-16",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-22",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-05-31",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-05-11",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-01-18",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-07-23",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-05-09",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-08-12",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-01-02",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-11-11",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-12-01",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-01-21",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-11-19",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2018-12-14",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-03-30",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-08-19",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-01-20",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-05-29",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 12",
+  "movimenti" : [ {
+    "data" : "2019-07-31",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-11-17",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-10-22",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-04-22",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-11-10",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-08-06",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2018-11-14",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-03-25",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-08-28",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-10-25",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-11-08",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 13",
+  "movimenti" : [ {
+    "data" : "2020-09-07",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-10-04",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-06-13",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-03-21",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-05-06",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-09-17",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 14",
+  "movimenti" : [ {
+    "data" : "2020-05-02",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-04-11",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-07-31",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-01-28",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-03-30",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 15",
+  "movimenti" : [ {
+    "data" : "2019-08-31",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-06-08",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-10-29",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-06-24",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-03-05",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-02-21",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-08-12",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 16",
+  "movimenti" : [ {
+    "data" : "2018-12-08",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-01-15",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-15",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-05-30",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2018-12-23",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 17",
+  "movimenti" : [ {
+    "data" : "2018-11-20",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-12-31",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-10-20",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-08-19",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-03-14",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-08-24",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-12-19",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-05-29",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-11-27",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-04-24",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 18",
+  "movimenti" : [ {
+    "data" : "2019-02-17",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-01-18",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2018-12-12",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-04-26",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-12-29",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-01-14",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-07-18",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-06-13",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-29",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-04-17",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 19",
+  "movimenti" : [ {
+    "data" : "2020-09-30",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-01-08",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-05-09",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-10-29",
+    "causale" : "Accredito"
+  } ]
+}, {
+  "nome" : "Correntista - 20",
+  "movimenti" : [ {
+    "data" : "2019-06-15",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-10-03",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-12-17",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-11-07",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-12-15",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-07-08",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-02-10",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-02-14",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-10-16",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-10-24",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-12-29",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-09-11",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-01-24",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-04-01",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-08-01",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-12-05",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-10-10",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-05-28",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-10-23",
+    "causale" : "Accredito"
+  } ]
+}, {
+  "nome" : "Correntista - 21",
+  "movimenti" : [ {
+    "data" : "2019-01-08",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-07-24",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-11-14",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-02-23",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-11-01",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-07-24",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-07",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-03-08",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-04-28",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-08-05",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 22",
+  "movimenti" : [ {
+    "data" : "2020-10-16",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-02-03",
+    "causale" : "F24"
+  }, {
+    "data" : "2018-12-13",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-09-29",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-08-03",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-01-25",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-12-14",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-04-03",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-06-22",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-11-22",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-01-14",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-01",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 23",
+  "movimenti" : [ {
+    "data" : "2020-07-26",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2018-12-09",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-02-14",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-01-12",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 24",
+  "movimenti" : [ {
+    "data" : "2019-02-06",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-03-13",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 25",
+  "movimenti" : [ {
+    "data" : "2019-02-20",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-06-20",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-06-17",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2018-11-03",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-09-15",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-03-15",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-10-04",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-01-07",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-04-14",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-05-08",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-08-19",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-02-02",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 26",
+  "movimenti" : [ {
+    "data" : "2018-12-08",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-05-20",
+    "causale" : "F24"
+  }, {
+    "data" : "2018-12-16",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-02-13",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-02-18",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-02-24",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-10-15",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-04-18",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-09-01",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-09-27",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-10-07",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-01-07",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-06-22",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-11-24",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-06-06",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-08",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-03-06",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 27",
+  "movimenti" : [ {
+    "data" : "2019-02-13",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-08-09",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-03-03",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-06-16",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-02-25",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-04-26",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-07-20",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-01-23",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-11-21",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-01-03",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2018-12-26",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-09-01",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-12-02",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-08-16",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-05-03",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-01-30",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-04-09",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 28",
+  "movimenti" : [ {
+    "data" : "2020-06-16",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-09-03",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-01-31",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-01-17",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-06-30",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-03-31",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-01-17",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-07-08",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-07-31",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-03-24",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-01-11",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-03-21",
+    "causale" : "F24"
+  }, {
+    "data" : "2018-11-16",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-03-13",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-03-03",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 29",
+  "movimenti" : [ {
+    "data" : "2020-10-27",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-02-04",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-20",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-08-12",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-03-13",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2018-11-13",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 30",
+  "movimenti" : [ {
+    "data" : "2019-09-04",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-04-26",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-08-01",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-02-02",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-08-06",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-08-06",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-01-23",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2018-12-26",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-07-11",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-02-16",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-03-02",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-11-16",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-08",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-08-21",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 31",
+  "movimenti" : [ {
+    "data" : "2020-05-22",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-10-27",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-04-26",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 32",
+  "movimenti" : [ {
+    "data" : "2019-03-13",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-07-17",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-02-02",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-09-30",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-03-01",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-05-01",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-01-22",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-04-29",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-03-20",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-06-24",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-05-05",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-02-18",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-09-17",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-30",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-07-25",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-02-09",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-02-12",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-05-08",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-09-28",
+    "causale" : "Accredito"
+  } ]
+}, {
+  "nome" : "Correntista - 33",
+  "movimenti" : [ {
+    "data" : "2020-04-17",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-08-14",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-06-11",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-04-15",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-07-08",
+    "causale" : "F24"
+  }, {
+    "data" : "2018-12-27",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-10-27",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-05-16",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2018-11-02",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-02-07",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-11-19",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-11-30",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-01-09",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-09-23",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-03-19",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-09-30",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-03-11",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-05-19",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-09-19",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-07-09",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 34",
+  "movimenti" : [ {
+    "data" : "2019-07-27",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-07-21",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-05-24",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-12-24",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-12-24",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-04-28",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-11-16",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-06-03",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-03-03",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-03-03",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-12-02",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-06-26",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-03-06",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-31",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-04-06",
+    "causale" : "F24"
+  }, {
+    "data" : "2018-11-08",
+    "causale" : "Accredito"
+  } ]
+}, {
+  "nome" : "Correntista - 35",
+  "movimenti" : [ {
+    "data" : "2019-12-17",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-06-14",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-06-14",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-06-25",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2018-11-24",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-06-06",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-12-20",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-03-28",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-03-20",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 36",
+  "movimenti" : [ {
+    "data" : "2019-05-04",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-06-15",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-09-06",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-02-23",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-02-25",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-01-29",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-08-19",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-03-25",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-06-15",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-26",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-02-03",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 37",
+  "movimenti" : [ {
+    "data" : "2019-05-06",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-02-09",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-09-10",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-11-20",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-12-07",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-10-07",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-06-17",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-05-05",
+    "causale" : "F24"
+  }, {
+    "data" : "2018-12-03",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 38",
+  "movimenti" : [ {
+    "data" : "2019-06-02",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-04-18",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-04-15",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-04-23",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-02-06",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-08-31",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 39",
+  "movimenti" : [ {
+    "data" : "2019-06-29",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-04-08",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-01-25",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-07-08",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-05-18",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-09",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-01-24",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-05-06",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-08-17",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-02-20",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-06-25",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-08-12",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-11-09",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-01-27",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-24",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-02-01",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-07-22",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-10-09",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-08-26",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-01-24",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 40",
+  "movimenti" : [ {
+    "data" : "2019-06-30",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-06-11",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 41",
+  "movimenti" : [ {
+    "data" : "2020-02-23",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-03-19",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-04-28",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-01-23",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-05-02",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-02-28",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-01-10",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-05-28",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 42",
+  "movimenti" : [ {
+    "data" : "2020-03-28",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-04",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-01-06",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-08-29",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-05-18",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-03-04",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 43",
+  "movimenti" : [ {
+    "data" : "2020-04-07",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-04-23",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-03-22",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-11",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-04-05",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-08-13",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 44",
+  "movimenti" : [ {
+    "data" : "2019-01-06",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-09-02",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-08-23",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-09-22",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-11-28",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-05-05",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-05-05",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-03-11",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-02-15",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-02-15",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-08-29",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-09-21",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 45",
+  "movimenti" : [ {
+    "data" : "2020-01-08",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-08-15",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-04-11",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-09-19",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-08-29",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-06-06",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-07-03",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-07-14",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-08-12",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-07-18",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-09-23",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 46",
+  "movimenti" : [ {
+    "data" : "2019-06-26",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 47",
+  "movimenti" : [ {
+    "data" : "2020-07-16",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-05-26",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-03-21",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-08-19",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-01-16",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-10-03",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-10-18",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-12-14",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-07-26",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-05-20",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-05-14",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-10-04",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-09-24",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-12-07",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-01-21",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-03-18",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-05-04",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-07-29",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 48",
+  "movimenti" : [ {
+    "data" : "2019-09-05",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-02-21",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-09-19",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-02-09",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-04-22",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-04-15",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-10-02",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-06-25",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-05-04",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-08-28",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-06-05",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-05-13",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-01-07",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-04-18",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 49",
+  "movimenti" : [ {
+    "data" : "2019-08-29",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-06-07",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-11",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-06-10",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-04-30",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-01-26",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-01-23",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2018-11-02",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-09-25",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-16",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-05-25",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-12-02",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-16",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-11-09",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-10-17",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-02-03",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-10-30",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 50",
+  "movimenti" : [ {
+    "data" : "2019-02-27",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-01-21",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-01-10",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-02-28",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-06-07",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-05-24",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-02-05",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-04-20",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-03-10",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-08-17",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-02-27",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-02-01",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-12-09",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 51",
+  "movimenti" : [ {
+    "data" : "2019-08-29",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-09-23",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-04-28",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-09-25",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-08-27",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-02-15",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-07-04",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-11-01",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-09-07",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 52",
+  "movimenti" : [ {
+    "data" : "2018-11-16",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-07-17",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-09-22",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-11-22",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-07-20",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2018-11-22",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-02-21",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-09-03",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-02-21",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-07-14",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-09-17",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-12-13",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-08-30",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-01-04",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-30",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-01-31",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-04-26",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 53",
+  "movimenti" : [ {
+    "data" : "2020-10-27",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-09-13",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-08-24",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-08-17",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-11-25",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-03-18",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-02-06",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-10-09",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-08-28",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-08-27",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-07-11",
+    "causale" : "Accredito"
+  } ]
+}, {
+  "nome" : "Correntista - 54",
+  "movimenti" : [ {
+    "data" : "2020-10-03",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-05-01",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-06-27",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-10-20",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-04-28",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-04-13",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-10-05",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-04-28",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-10-06",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-10-11",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-11-19",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-09-06",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-09-20",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-04-04",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 55",
+  "movimenti" : [ {
+    "data" : "2018-12-26",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-03-16",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-09-10",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-08-02",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-08-04",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-11-12",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-01-24",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-01-01",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-10-03",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-11-22",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-09-28",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-04-30",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-06-25",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 56",
+  "movimenti" : [ {
+    "data" : "2020-04-06",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-06-02",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-10-23",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-05-30",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2020-09-07",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-08-07",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-02-12",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-04-09",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 57",
+  "movimenti" : [ {
+    "data" : "2019-11-14",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-11-24",
+    "causale" : "Accredito"
+  } ]
+}, {
+  "nome" : "Correntista - 58",
+  "movimenti" : [ {
+    "data" : "2019-09-30",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2018-11-28",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-05-11",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-08-19",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-03-07",
+    "causale" : "Accredito"
+  } ]
+}, {
+  "nome" : "Correntista - 59",
+  "movimenti" : [ {
+    "data" : "2020-08-31",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-03-13",
+    "causale" : "Bollettino"
+  } ]
+}, {
+  "nome" : "Correntista - 60",
+  "movimenti" : [ {
+    "data" : "2020-10-30",
+    "causale" : "F24"
+  } ]
+}, {
+  "nome" : "Correntista - 61",
+  "movimenti" : [ {
+    "data" : "2019-02-24",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-09-25",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-05-12",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-10-19",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-05-03",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-12-20",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2020-03-30",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-12-27",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-03-10",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-07-24",
+    "causale" : "F24"
+  }, {
+    "data" : "2018-11-10",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-03-29",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 62",
+  "movimenti" : [ {
+    "data" : "2020-08-22",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-04-24",
+    "causale" : "F24"
+  }, {
+    "data" : "2020-02-12",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-10-03",
+    "causale" : "PagoBancomat"
+  } ]
+}, {
+  "nome" : "Correntista - 63",
+  "movimenti" : [ {
+    "data" : "2020-01-06",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-09-16",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2019-12-13",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-10-06",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-06-30",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-09-08",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-04-10",
+    "causale" : "Bonifico"
+  } ]
+}, {
+  "nome" : "Correntista - 64",
+  "movimenti" : [ {
+    "data" : "2019-12-04",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-04-30",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-10-14",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-07-20",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2019-06-25",
+    "causale" : "Bollettino"
+  }, {
+    "data" : "2019-07-25",
+    "causale" : "Bonifico"
+  }, {
+    "data" : "2019-12-15",
+    "causale" : "F24"
+  }, {
+    "data" : "2019-03-13",
+    "causale" : "Accredito"
+  }, {
+    "data" : "2020-06-24",
+    "causale" : "PagoBancomat"
+  }, {
+    "data" : "2020-10-19",
+    "causale" : "PagoBancomat"
+  } ]
+} ]

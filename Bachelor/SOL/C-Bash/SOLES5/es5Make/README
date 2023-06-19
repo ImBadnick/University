@@ -1,0 +1,13 @@
+bin: directory dove dovra' essere generato l'eseguibile myprog
+src: directory con tutti i sorgenti (myprog.c e binarytree.c)
+include: directory con tutti gli includes (binarytree.h e utils.h)
+lib: directory che contiene la libreria libbt.so
+testfile: directory che contiene i file di output attesi (test1-out_atteso.txt)
+
+
+- per compilare e generare l'eseguibile deve essere sufficiente dare il comando 'make'
+- per effettuare il test1 la regola da invocare e' 'make test1'. La regola test1 deve
+  lanciare l'eseguibile con i parametri 5 -2 e 28 (cioe' ./bin/myprog 5 -2 28).
+  L'output prodotto dovra' essere rediretto in un file (cioe' ./bin/myprog 5 -2 28 > out)
+  e confrontato con quello del file './testfile/test1-out_atteso.txt'.
+  Se il test1 produce l'output atteso la regola deve stappare sullo standard output "test1 OK".

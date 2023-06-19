@@ -1,0 +1,69 @@
+$date
+	Wed Oct 23 22:19:22 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test $end
+$var wire 1 ! out $end
+$var reg 2 " ic [1:0] $end
+$var reg 2 # x [1:0] $end
+$var reg 2 $ y [1:0] $end
+$scope module mymux $end
+$var wire 2 % ic [1:0] $end
+$var wire 2 & x [1:0] $end
+$var wire 2 ' y [1:0] $end
+$var wire 1 ! z $end
+$var wire 1 ( out2 $end
+$var wire 1 ) out1 $end
+$scope module m1 $end
+$var wire 1 * ic $end
+$var wire 1 + x $end
+$var wire 1 , y $end
+$var wire 1 ) z $end
+$upscope $end
+$scope module m2 $end
+$var wire 1 - ic $end
+$var wire 1 . x $end
+$var wire 1 / y $end
+$var wire 1 ( z $end
+$upscope $end
+$scope module m3 $end
+$var wire 1 0 ic $end
+$var wire 1 ) x $end
+$var wire 1 ( y $end
+$var wire 1 ! z $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+00
+0/
+0.
+0-
+0,
+1+
+0*
+1)
+0(
+b0 '
+b1 &
+b0 %
+b0 $
+b1 #
+b0 "
+1!
+$end
+#5
+0!
+0)
+1*
+1-
+b10 "
+b10 %
+#10

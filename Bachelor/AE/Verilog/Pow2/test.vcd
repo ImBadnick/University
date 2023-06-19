@@ -1,0 +1,52 @@
+$date
+	Tue Oct 29 19:39:28 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test $end
+$var wire 1 ! z $end
+$var reg 8 " x [7:0] $end
+$var integer 32 # i [31:0] $end
+$scope module mypow $end
+$var wire 8 $ x [7:0] $end
+$var wire 1 ! z $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b10 $
+b1001 #
+b10 "
+x!
+$end
+#2
+1!
+#5
+b1000010 "
+b1000010 $
+#7
+0!
+#10
+b1000000 "
+b1000000 $
+#12
+1!
+#15
+b11000000 "
+b11000000 $
+#17
+0!
+#20
+b1 "
+b1 $
+#22
+1!
+#25
+b0 "
+b0 $
+#45
